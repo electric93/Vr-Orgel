@@ -1,2 +1,2 @@
 # Vr-Orgel
-dis is da SVNorgoel
+dis is da orgoel
